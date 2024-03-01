@@ -2,7 +2,7 @@
 I'm a third year software engineering student at Bahcesehir University, passionate about exploring the different programming paradigms, machine learning, and building robust applications.
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/george-mahfoud-4b68282b7) 
 
 # 💻 Tech Stack:
