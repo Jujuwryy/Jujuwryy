@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a third year software engineering student at Bahcesehir University, passionate about exploring the different programming paradigms, machine learning, and building robust applications.
+I'm a third year software engineering student, passionate about exploring the different programming paradigms, machine learning, and building robust applications.
 
 
 ## 🌐 Connect with me:
